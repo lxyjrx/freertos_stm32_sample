@@ -1,0 +1,12 @@
+.\objects\list.o: ..\freertos_code\list.c
+.\objects\list.o: E:\mdk_arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\list.o: ..\freertos_code\include\FreeRTOS.h
+.\objects\list.o: E:\mdk_arm\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\list.o: E:\mdk_arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\list.o: ..\user\FreeRTOSConfig.h
+.\objects\list.o: ..\freertos_code\include\projdefs.h
+.\objects\list.o: ..\freertos_code\include\portable.h
+.\objects\list.o: ..\freertos_code\include\deprecated_definitions.h
+.\objects\list.o: ..\freertos_code\portable\RVDS\ARM_CM3\portmacro.h
+.\objects\list.o: ..\freertos_code\include\mpu_wrappers.h
+.\objects\list.o: ..\freertos_code\include\list.h

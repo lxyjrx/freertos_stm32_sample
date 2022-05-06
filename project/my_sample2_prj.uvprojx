@@ -52,7 +52,7 @@
           <OutputName>my_sample2_prj</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
-          <CreateHexFile>0</CreateHexFile>
+          <CreateHexFile>1</CreateHexFile>
           <DebugInformation>1</DebugInformation>
           <BrowseInformation>1</BrowseInformation>
           <ListingPath>.\Listings\</ListingPath>
@@ -160,7 +160,7 @@
             <ldXref>1</ldXref>
             <BigEnd>0</BigEnd>
             <AdsALst>0</AdsALst>
-            <AdsACrf>1</AdsACrf>
+            <AdsACrf>0</AdsACrf>
             <AdsANop>0</AdsANop>
             <AdsANot>0</AdsANot>
             <AdsLLst>1</AdsLLst>

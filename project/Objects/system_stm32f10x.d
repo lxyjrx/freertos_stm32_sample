@@ -1,0 +1,17 @@
+.\objects\system_stm32f10x.o: ..\fwlib\CMSIS\device\Source\system_stm32f10x.c
+.\objects\system_stm32f10x.o: ..\fwlib\CMSIS\device\Include\stm32f10x.h
+.\objects\system_stm32f10x.o: ..\fwlib\CMSIS\Core\Include\core_cm3.h
+.\objects\system_stm32f10x.o: E:\mdk_arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_stm32f10x.o: ..\fwlib\CMSIS\Core\Include\cmsis_version.h
+.\objects\system_stm32f10x.o: ..\fwlib\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\system_stm32f10x.o: ..\fwlib\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\system_stm32f10x.o: ..\fwlib\CMSIS\device\Include\system_stm32f10x.h
+.\objects\system_stm32f10x.o: ..\user\stm32f10x_conf.h
+.\objects\system_stm32f10x.o: ..\fwlib\CMSIS\device\Include\RTE_Components.h
+.\objects\system_stm32f10x.o: ..\fwlib\StdPeriph_Driver\inc\stm32f10x_adc.h
+.\objects\system_stm32f10x.o: ..\fwlib\CMSIS\device\Include\stm32f10x.h
+.\objects\system_stm32f10x.o: ..\fwlib\StdPeriph_Driver\inc\stm32f10x_dma.h
+.\objects\system_stm32f10x.o: ..\fwlib\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\system_stm32f10x.o: ..\fwlib\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\system_stm32f10x.o: ..\fwlib\StdPeriph_Driver\inc\stm32f10x_tim.h
+.\objects\system_stm32f10x.o: ..\fwlib\StdPeriph_Driver\inc\misc.h
