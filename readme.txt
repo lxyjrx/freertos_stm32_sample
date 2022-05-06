@@ -1,1 +1,3 @@
 这是一个移植了freertos的stm32示例工程。
+
+该工程演示了freertos系统在stm32上是如何运行的。
